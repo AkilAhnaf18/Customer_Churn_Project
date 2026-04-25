@@ -75,7 +75,7 @@ Customer_Churn_Project/
 
 ## How to Run
 
-git clone https://github.com/yourusername/Customer_Churn_Project.git
+git clone https://github.com/AkilAhnaf18/Customer_Churn_Project.git
 cd Customer_Churn_Project
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter joblib
 jupyter notebook churn_prediction.ipynb
