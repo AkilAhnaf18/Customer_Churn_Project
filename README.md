@@ -88,11 +88,13 @@ jupyter notebook churn_prediction.ipynb
 
 ## Load the Saved Model
 
+```
 import joblib
 
 model = joblib.load('churn_model.pkl')
 predictions = model.predict(new_customer_data)
 probabilities = model.predict_proba(new_customer_data)[:, 1]
+```
 
 ---
 
