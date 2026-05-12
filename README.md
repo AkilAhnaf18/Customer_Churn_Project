@@ -27,12 +27,14 @@ and protect revenue.
 
 ## Project Structure
 
+```
 Customer_Churn_Project/
 │
 ├── churn_prediction.ipynb        # Full notebook — EDA to deployment
 ├── churn_model.pkl               # Saved trained pipeline (ready to deploy)
 ├── README.md                     # This file
 └── WA_Fn-UseC_-Telco-Customer-Churn.csv  # Dataset
+```
 
 ---
 
